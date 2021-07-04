@@ -455,7 +455,6 @@ public class RegisterForm extends javax.swing.JFrame {
         us.usuario = txtUsuario.getText();
         us.Apellido = txtApellido.getText();
         us.Clave = txtClave.getText();
-        us.Clave = txtClave_Repetida.getText();
         us.descripcion = txtDescripcion.getText();
         us.Nacimiento = DCNacimiento.getDate();
         
@@ -483,9 +482,8 @@ public class RegisterForm extends javax.swing.JFrame {
         }
         
         
-        if (txtClave == txtClave_Repetida) {
+        if (txtClave.getText() == txtClave_Repetida.getText()) {
         LoginForm LF = new LoginForm();
-        LF.set
         LF.setVisible(true);
         this.dispose();
         LF.pack();    
