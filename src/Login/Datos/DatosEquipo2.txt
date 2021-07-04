@@ -1,0 +1,6 @@
+ Equipo2= Hola
+ Miembros6= HOla12
+ Miembros7= HOla11
+ Miembros8= HOla31
+ Miembros9= HOla14
+ Miembros10= HOla10

@@ -1,0 +1,6 @@
+ Equipo1= asd
+ Miembros6= asdf
+ Miembros7= asdf
+ Miembros8= asfd
+ Miembros9= fasd
+ Miembros10= fdsa
